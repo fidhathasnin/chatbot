@@ -50,4 +50,5 @@ if file is not None:
 
         # Generate response using a Hugging Face language model
         # For simplicity, here we just display the matched text chunk as the response
-        st.write("Response:", matched_chunk)
+    st.write("Response:", matched_chunk)
+
